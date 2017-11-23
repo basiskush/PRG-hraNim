@@ -7,7 +7,7 @@
 ############################################################################
 
 while True:
-    co = input("Chceš něco?")
+    co = input("Chceš něco? > ")
     if co == 'Ne':
         break
     else:
