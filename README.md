@@ -11,7 +11,7 @@ příležitost zvítězit, využije ji.
 
 Rozhraní programu může vypadat například takto:
 
-    Chceš začít hrát? A
+    Chceš hrát jako první? A
     Kolik máme sitek? 10 
     Zbívá sirek: 10; kolik vezmeš? 3
     Zbívá sirek: 7;  já odebírám 3

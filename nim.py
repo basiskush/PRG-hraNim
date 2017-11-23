@@ -1,8 +1,15 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 23 13:07:45 2017
+# Soubor:  nim.py
+# Datum:   23.11.2017 13:26
+# Autor:   
+# Licence: GNU/GPL
+# Úloha:   Hra Nim
+############################################################################
 
-@author: nozka
-"""
-
+while True:
+    co = input("Chceš něco?")
+    if co == 'Ne':
+        break
+    else:
+        continue
+    print('kokodák')
